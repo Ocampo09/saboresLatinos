@@ -8,7 +8,7 @@ Sitio web completo desarrollado para el restaurante **Sabores Latinos**, un rest
 
 ## 🌐 Ver en vivo
 
-👉 [saboreslatinos.github.io](https://tuusuario.github.io/saboresLatinos) 
+👉 https://ocampo09.github.io/saboresLatinos/
 
 ---
 
