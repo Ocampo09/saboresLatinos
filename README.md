@@ -69,7 +69,7 @@ saboresLatinos/
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tuusuario/saboresLatinos.git
+   git clone https://github.com/ocampo09/saboresLatinos.git
    ```
 2. Abre el archivo `index.html` en tu navegador.
 
